@@ -1,0 +1,2 @@
+# Emotion-Analysis-of-Human-Voice-
+The voice signal is so dynamic even in a short-time frame so that, a voice  of the same person can differ within a period of time. • Firstly, this is clear that there is a necessity to partition the training data  according to the emotional stage of each individual speaker.  • Secondly, using the entire voice signal, short time significant frames can  be used, which would be enough to identify the emotional condition of the  speaker.
